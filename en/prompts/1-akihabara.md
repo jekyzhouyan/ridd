@@ -3,7 +3,7 @@ layout: "prompt"
 lang: "en"
 title: "Ridd Prompt 1 Akihabara"
 contributor: "Tomoko"
-date: "2025-1-10 06:21:27"
+date: "2025-01-10 06:21:27"
 categories: "Prompt"
 tags: [Prompt, Ridd, Riddikulus]
 prompt_version: "1 Akihabara"

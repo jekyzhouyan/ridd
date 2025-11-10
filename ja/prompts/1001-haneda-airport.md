@@ -3,7 +3,7 @@ layout: "prompt"
 lang: "ja"
 title: "Ridd Prompt 1001 Haneda Airport"
 contributor: "Tomoko"
-date: "2025-1-16 07:00:43"
+date: "2025-01-16 07:00:43"
 categories: "Prompt"
 tags: [Prompt, Ridd, Riddikulus]
 prompt_version: "1001 Haneda Airport"
