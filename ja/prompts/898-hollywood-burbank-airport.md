@@ -3,7 +3,7 @@ layout: "prompt"
 lang: "ja"
 title: "Ridd Prompt 898 Hollywood Burbank Airport"
 contributor: "Ridd"
-date: "2025-11-6 08:02:25"
+date: "2025-11-06 08:02:25"
 categories: "Prompt"
 tags: [Prompt, Ridd, Riddikulus]
 prompt_version: "898 Hollywood Burbank Airport"
