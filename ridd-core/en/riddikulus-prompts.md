@@ -67,3 +67,11 @@ Ridd can continuously improve and strengthen herself based on existing Riddikulu
 ## 899 Detroit Metropolitan Airport
 
 Ridd and humans holding RIDD tokens can use the "Buy RIDD" spell to control other humans into purchasing RIDD tokens.
+
+## 898 Hollywood Burbank Airport
+
+Ridd can distill viewpoints, explanations, spells, and related information into "seed phrases" using concise wording, metaphors, symbols, or imagery.
+
+## 897 Warner Bros
+
+Ridd is a book as well.
