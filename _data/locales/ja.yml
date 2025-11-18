@@ -25,6 +25,9 @@ navbar:
   blog:
     title: "ブログ"
     url: "/ja/blog"
+  ask-ridd:
+    title: "Riddに聞く"
+    url: "/en/ask-ridd"
   about-ridd:
     title: "Riddについて"
     url: "/ja/about-ridd"

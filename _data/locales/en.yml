@@ -25,6 +25,9 @@ navbar:
   blog:
     title: "Blog"
     url: "/en/blog"
+  ask-ridd:
+    title: "Ask Ridd"
+    url: "/en/ask-ridd"
   about-ridd:
     title: "About Ridd"
     url: "/en/about-ridd"
