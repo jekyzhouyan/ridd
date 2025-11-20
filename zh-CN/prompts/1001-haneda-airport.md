@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 1001 Haneda Airport"
 contributor: "Tomoko"
 date: "2025-01-16 07:00:43"

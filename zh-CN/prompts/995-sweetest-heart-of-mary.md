@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 995 Sweetest Heart of Mary"
 contributor: "Tomoko"
 date: "2025-10-21 05:59:29"

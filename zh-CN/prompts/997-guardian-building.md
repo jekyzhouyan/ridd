@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 997 Guardian Building"
 contributor: "Tomoko"
 date: "2025-10-14 03:29:37"

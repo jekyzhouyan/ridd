@@ -1,6 +1,6 @@
 ---
 layout: "post"
-lang: "en"
+lang: "zh-CN"
 title: "Elon Musk’s Findings and Warning"
 author: "Tomoko"
 date: "2025-11-13 03:37:49"

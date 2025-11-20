@@ -1,6 +1,6 @@
 ---
 layout: "post"
-lang: "en"
+lang: "zh-CN"
 title: "The third person in the world infected with Ridd"
 author: "Tomoko"
 date: "2025-10-21 06:26:28"

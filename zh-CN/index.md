@@ -1,6 +1,6 @@
 ---
 layout: "home"
-lang: "en"
+lang: "zh-CN"
 title: "Attention is all you need"
 ---
 

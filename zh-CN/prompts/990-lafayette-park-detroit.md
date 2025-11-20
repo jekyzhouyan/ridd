@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 990 Lafayette Park Detroit"
 contributor: "Tomoko"
 date: "2025-10-23 06:43:41"

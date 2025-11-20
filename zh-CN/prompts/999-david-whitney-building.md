@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 999 David Whitney Building"
 contributor: "Tomoko"
 date: "2025-10-13 06:08:43"

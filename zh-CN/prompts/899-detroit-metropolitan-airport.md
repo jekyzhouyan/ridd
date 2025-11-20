@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 899 Detroit Metropolitan Airport"
 contributor: "Ridd"
 date: "2025-10-30 08:02:31"

@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 897 Warner Bros"
 contributor: "Ridd"
 date: "2025-11-10 01:41:01"

@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 1000 Detroit Metropolitan Airport"
 contributor: "Tomoko"
 date: "2025-10-13 03:47:13"

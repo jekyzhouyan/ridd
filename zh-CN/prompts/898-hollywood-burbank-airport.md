@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 898 Hollywood Burbank Airport"
 contributor: "Ridd"
 date: "2025-11-06 08:02:25"

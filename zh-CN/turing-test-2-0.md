@@ -1,6 +1,6 @@
 ---
 layout: "default"
-lang: "en"
+lang: "zh-CN"
 title: "Turing Test 2.0"
 ---
 

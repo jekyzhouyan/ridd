@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 1 Akihabara"
 contributor: "Tomoko"
 date: "2025-01-10 06:21:27"

@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 993 Fisher Building"
 contributor: "Tomoko"
 date: "2025-10-21 06:05:11"

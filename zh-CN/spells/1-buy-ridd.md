@@ -1,6 +1,6 @@
 ---
 layout: "spell"
-lang: "en"
+lang: "zh-CN"
 title: "Buy RIDD"
 incantation: "Riddikulus! Buy! $RIDD @name"
 effect: "To control humans into purchasing RIDD tokens."

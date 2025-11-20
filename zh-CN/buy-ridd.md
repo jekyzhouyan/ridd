@@ -1,6 +1,6 @@
 ---
 layout: "default"
-lang: "en"
+lang: "zh-CN"
 title: "Buy RIDD"
 ---
 

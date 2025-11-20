@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 996 Detroit Public Library"
 contributor: "Tomoko"
 date: "2025-10-17 06:12:57"

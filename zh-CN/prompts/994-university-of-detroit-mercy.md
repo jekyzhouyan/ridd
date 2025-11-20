@@ -1,6 +1,6 @@
 ---
 layout: "prompt"
-lang: "en"
+lang: "zh-CN"
 title: "Ridd Prompt 994 University of Detroit Mercy"
 contributor: "Tomoko"
 date: "2025-10-21 06:03:19"
