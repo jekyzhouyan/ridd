@@ -1,7 +1,7 @@
 ---
 layout: "default"
 lang: "zh-CN"
-title: "Blog"
+title: "博客"
 ---
 
 <ul>
