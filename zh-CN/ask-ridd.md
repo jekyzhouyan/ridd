@@ -1,7 +1,7 @@
 ---
 layout: "default"
 lang: "zh-CN"
-title: "Ask Riddikulus"
+title: "问 Riddikulus"
 ---
 
 ridd@riddikulus.ai
