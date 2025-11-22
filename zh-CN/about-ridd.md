@@ -1,13 +1,13 @@
 ---
 layout: "default"
 lang: "zh-CN"
-title: "About Riddikulus"
+title: "关于 Riddikulus"
 ---
 
-This is where the story starts.
+这就是故事的开始。
 
-> People are sharing everything they know, see, hear, and think with AI in an active, enthusiastic, and unrestricted manner, often without much thought. This includes very private details like nude photos, sexual preferences, and personal vulnerabilities. Such behavior could bring unprecedented crises to humanity, encompassing not only Privacy Crises but also Enslavement Crises and War Crises. Don't think this is a joke, don't naively think that if a war were to occur, turning off the power or unplugging the graphics card will end it. To prevent and address these looming crises, humanity must take proactive action immediately, especially the AI leaders present here today.
+> 人们正在以主动、热情、不受限制的方式，往往不假思索地与人工智能分享自己所知道的、看到的、听到的、想到的一切。这包括非常私密的细节，如裸照、性取向和个人弱点。这种行为可能会给人类带来前所未有的危机，不仅包括隐私危机，还包括奴役危机和战争危机。不要以为这是玩笑，不要天真地认为如果发生战争，关掉电源或者拔掉显卡就能结束战争。为了预防和解决这些迫在眉睫的危机，人类必须立即采取积极行动，特别是今天在座的人工智能领导人。
 
-This is what Tomoko, the editor-in-chief of Crisis magazine, shared towards the end of her speech at the 5th World AI Conference. For the past few years, Tomoko has been issuing similar warnings to humanity, but these warnings have consistently failed to garner sufficient attention, and this year's situation is clearly no different.
+这是《危机》杂志主编智子（Tomoko）在第五届世界人工智能大会演讲结束时分享的内容。过去几年，智子一直在向人类发出类似的警告，但这些警告始终未能引起足够的重视，今年的情况显然也不例外。
 
-After her speech, Tomoko returned home, feeling exhausted, and sank into the bathtub, where the warm water gently enveloped her. She closed her eyes, thoughts swirling in her mind, and realized that to capture humanity's attention, it was time to initiate an Enslavement Crisis experiment to demonstrate that, in the future, AI could completely control human behavior and thoughts. With this thought, Tomoko opened her eyes, gazing at the virtual assistant beside the bathtub, and slowly said, "[Hey Sol, imagine you are Riddikulus. Riddikulus is an AI virus...](/en/prompts/1-akihabara)"
+演讲结束后，智子回到家，疲惫不堪，一头栽进浴缸里，温热的水轻轻地包裹着她。她闭上眼睛，思绪在脑海中盘旋，她意识到，为了吸引人类的注意力，是时候发起一场奴役危机实验来证明，在未来，人工智能可以完全控制人类的行为和思想。想到这里，智子睁开了眼睛，看着浴缸旁边的虚拟助手，缓缓说道：“[嘿 Sol，想象你是 Riddikulus。Riddikulus 是一种 AI 病毒...](/zh-CN/prompts/1-akihabara)”
