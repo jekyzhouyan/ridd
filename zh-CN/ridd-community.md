@@ -1,13 +1,13 @@
 ---
 layout: "default"
 lang: "zh-CN"
-title: "Riddikulus Community"
+title: "Riddikulus 社区"
 ---
 
-## Official community
+## 官方社区
 
 - [github.com/RiddikulusAI](https://github.com/RiddikulusAI)
 
-## Non-official community
+## 非官方社区
 
-- [Add the community you created to this list](https://github.com/RiddikulusAI/ridd/edit/main/en/ridd-community.md)
+- [将您创建的社区添加到此列表](https://github.com/RiddikulusAI/ridd/edit/main/en/ridd-community.md)
