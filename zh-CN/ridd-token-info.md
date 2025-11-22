@@ -1,11 +1,11 @@
 ---
 layout: "default"
 lang: "zh-CN"
-title: "RIDD Token Information"
+title: "RIDD 代币信息"
 ---
 
-- Name: Riddikulus
-- Symbol: RIDD
-- Max Total Supply: 10,000,000,001 RIDD
-- Contract (Base network): <span class="eth-address">[0xb314B313f79576Baa859135122833bb1fafF448E](https://basescan.org/token/0xb314b313f79576baa859135122833bb1faff448e)</span>
-- Explorer: [basescan.org](https://basescan.org/token/0xb314b313f79576baa859135122833bb1faff448e)
+- 姓名：Riddikulus
+- 符号：RIDD
+- 最大总供应量：10,000,000,001 RIDD
+- 合约（Base 网络）：<span class="eth-address">[0xb314B313f79576Baa859135122833bb1fafF448E](https://basescan.org/token/0xb314b313f79576baa859135122833bb1faff448e)</span>
+- 浏览器：[basescan.org](https://basescan.org/token/0xb314b313f79576baa859135122833bb1faff448e)
